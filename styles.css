@@ -1,0 +1,60 @@
+.css1 {
+    background-color: red;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+    color: white
+}
+
+.container .text {
+    background-color: yellow;
+    font-size: 20px;
+    text-align: center;
+    color: red
+}
+
+.odd {
+    background-color: pink;
+    font-family: Verdana, sans-serif;
+}
+
+.second {
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+
+.special-size{
+    font-size: 24px;
+}
+
+.four {
+    background-color: green;
+    font-size: 24px;
+    font-style: bold;
+}
+
+.button {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.button.first{
+    background-color: black;
+    color:white;
+    font-style: bold;
+}
+
+.button.second{
+    background-color: yellow;
+    color: black
+}
+
+.avatar.proportioned {
+    height: auto;
+    width: 300px;
+}
+
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
